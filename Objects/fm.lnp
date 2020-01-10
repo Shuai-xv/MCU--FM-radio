@@ -1,0 +1,3 @@
+".\Objects\fm.obj" 
+TO ".\Objects\fm" 
+PRINT(".\Listings\fm.m51") RAMSIZE(256) 
